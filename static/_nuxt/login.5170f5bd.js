@@ -1,0 +1,1 @@
+import{_}from"./login.07f597ac.js";import{a,e as n,h as c,z as i,o as t}from"./entry.c85a5a66.js";const d={},l={key:0,class:"h-[100%] w-[100%] z-[1000]"};function m(e,o){const s=_;return t(),n("div",null,[e.logged_in?i("",!0):(t(),n("div",l,[c(s,{onLogged_in:o[0]||(o[0]=r=>e.setUser(r))})]))])}const g=a(d,[["render",m]]);export{g as default};
